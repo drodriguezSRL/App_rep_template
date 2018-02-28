@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>figs/facebook.png</file>
+    <file>figs/youtube.png</file>
+    <file>figs/twitter.png</file>
+    <file>figs/github.png</file>
+</qresource>
+</RCC>

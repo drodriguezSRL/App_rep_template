@@ -1,2 +1,2 @@
-# CFP
-Cash Flow Prediction tool
+# NewApp
+New app structure template
